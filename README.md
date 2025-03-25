@@ -1,6 +1,5 @@
 # 🌍 **Airbnb: A Global Hospitality Marketplace**
 
-![Airbnb Banner](https://source.unsplash.com/1600x400/?airbnb,travel,hotel)
 
 ## 🏠 **About Airbnb**
 Airbnb, Inc. is a leading online marketplace that connects **hosts** with **guests** for unique stays and experiences worldwide. Founded in **2008**, Airbnb has expanded to **220+ countries** with over **8 million listings**, facilitating **2 billion guest arrivals**. The platform enables users to book **private rooms, apartments, and vacation homes**, generating revenue through service fees.
